@@ -1,2 +1,3 @@
-# Redux-Bank
-This is a simple app built in react with the help of redux. It has most of the actions carried out in the bank involving withdrawing,depositing, request a loan and also paying  loan . It was built for the sake of leveraging my skills in React with redux to manage the global state throughout the app.
+# Redux
+
+This is a simple React application developed with Redux to manage global state efficiently. The app simulates various banking operations, including withdrawing and depositing funds, requesting loans, and making loan repayments. The project was primarily created to enhance my skills in React and Redux by implementing real-world scenarios of state management across the application.
